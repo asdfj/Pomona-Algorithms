@@ -1,0 +1,1 @@
+This is the ps6b programming assignment for Nate Levine and Stephen Langdon. Compile it using python3, the name of the file, and the argument infile.txt
